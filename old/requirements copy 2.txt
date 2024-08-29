@@ -1,0 +1,10 @@
+fastapi==0.108.0
+joblib==1.4.2
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1707225380409/work/dist/numpy-1.26.4-cp310-cp310-linux_x86_64.whl#sha256=51131fd8fc130cd168aecaf1bc0ea85f92e8ffebf211772ceb16ac2e7f10d7ca
+pandas==2.2.2
+pydantic==2.5.3
+pydantic_core==2.14.6
+scikit-learn==1.2.2
+scipy==1.11.4
+tensorflow==2.15.0
+uvicorn==0.25.0
